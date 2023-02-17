@@ -1,12 +1,12 @@
 - - -
 
-### _Research Associate_  
-[HPC Methods for Nuclear Applications Group][hpcmna]  
-[Nuclear Energy and Fuel Cycle Division][nefcd]  
+### _Research Scientist_  
+[Scalable Algorithms and Coupled Physics][group]  
+[Computational Sciences and Engineering Division][division]  
 [**Oak Ridge National Laboratory**][ornl]  
 
-[nefcd]: https://www.ornl.gov/division/nefc
-[hpcmna]: https://www.ornl.gov/group/hpcmna
+[group]: https://www.ornl.gov/group/sacp
+[division]: https://www.ornl.gov/division/csed
 [ornl]: https://www.ornl.gov
 
 [![email](https://img.shields.io/badge/email-togninis@ornl.gov-36A446?style=flat)](mailto:togninis@ornl.gov)
