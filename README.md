@@ -1,7 +1,7 @@
 - - -
 
 ### _Research Scientist_  
-[Scalable Algorithms and Coupled Physics][group]  
+Scalable Engineering Applications  
 [Computational Sciences and Engineering Division][division]  
 [**Oak Ridge National Laboratory**][ornl]  
 
@@ -23,8 +23,8 @@
 
 - - - 
 
-[![cv](https://img.shields.io/badge/PDF-CV-9cf?style=flat)](pdf/cv_main.pdf)  
-[![resume](https://img.shields.io/badge/PDF-Resume-lightgray?style=flat)](pdf/main.pdf)  
-[![Publications](https://img.shields.io/badge/PDF-Publications-blue?style=flat)](pdf/publist.pdf)
+[![cv](https://img.shields.io/badge/PDF-CV-9cf?style=flat)](pdf/main-cv.pdf)  
+[![resume](https://img.shields.io/badge/PDF-Resume-lightgray?style=flat)](pdf/main-resume.pdf)  
+[![Publications](https://img.shields.io/badge/PDF-Publications-blue?style=flat)](pdf/main-publist.pdf)
 
 - - -
