@@ -1,11 +1,11 @@
 - - -
 
-### _Research Scientist_  
-Scalable Engineering Applications  
+### Research Scientist
+[Scalable Engineering Applications][group]  
 [Computational Sciences and Engineering Division][division]  
 [**Oak Ridge National Laboratory**][ornl]  
 
-[group]: https://www.ornl.gov/group/sacp
+[group]: https://www.ornl.gov/group/scalable-engineering-applications
 [division]: https://www.ornl.gov/division/csed
 [ornl]: https://www.ornl.gov
 
